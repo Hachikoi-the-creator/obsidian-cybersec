@@ -1,0 +1,11 @@
+[12:15:37 2026-10-13] FETCHING Version 2.45.3
+[12:15:37 2026-10-13] CREATING /home/hiyuki/.spicetify
+[12:15:37 2026-10-13] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.45.3/spicetify-2.45.3-linux-amd64.tar.gz
+[12:15:38 2026-10-13] EXTRACTING /home/hiyuki/.spicetify/spicetify.tar.gz
+[12:15:38 2026-10-13] SETTING EXECUTABLE PERMISSIONS TO /home/hiyuki/.spicetify/spicetify
+[12:15:38 2026-10-13] REMOVING /home/hiyuki/.spicetify/spicetify.tar.gz
+[12:15:38 2026-10-13] APPENDING /home/hiyuki/.spicetify to PATH in /home/hiyuki/.config/fish/config.fish
+[12:15:38 2026-10-13] spicetify v2.45.3 was installed successfully to /home/hiyuki/.spicetify
+[12:15:38 2026-10-13] Open a new terminal or reload your shell profile to use spicetify:
+[12:15:38 2026-10-13]   source "/home/hiyuki/.config/fish/config.fish"
+[12:15:38 2026-10-13] Then run 'spicetify --help' to get started
